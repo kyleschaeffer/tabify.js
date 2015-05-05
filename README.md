@@ -1,2 +1,2 @@
-# wptabify.js
-A simple jQuery plugin to transform a SharePoint web part zone into tabs.
+# tabify.js
+A simple jQuery plugin to transform HTML content into tabs.
